@@ -1,0 +1,13 @@
+[{
+    "id":1,
+    "title":"apple pie",
+    "servings": 2,
+    "ingredients":[
+    {"ingredient":"butter","amount":"½ cup (110g)"},
+    {"ingredient":"sugar" ,"amount": "¼ cup (50 g) "},
+    {"ingredient":"salt", "amount":"pinch"},
+    {"ingredient":"flour 0000", "amount": "130g"}
+    ],
+    "instructions":"Peel and core apples, then thinly slice. Set aside."
+}
+]
